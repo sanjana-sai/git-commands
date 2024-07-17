@@ -12,3 +12,11 @@ git remote add  remote_name  "remote_http"  [adding remote repositery path]
 
 git push remote_name    branch
 
+global commands
+
+git config --list   [list user details]
+
+git config --global user.name "username"   [adding username]
+
+git config --global user.email "email"     [adding user email]
+
