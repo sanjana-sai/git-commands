@@ -10,7 +10,9 @@ git remote -v [list all remotes]
 
 git remote add  remote_name  "remote_http"  [adding remote repositery path]
 
-git push remote_name    branch
+git push remote_name    branchname
+
+git branch [listing of branch]
 
 global commands
 
