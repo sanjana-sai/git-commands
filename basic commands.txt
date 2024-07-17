@@ -5,3 +5,10 @@ git status (list all untracked files)
 git add -A   (for adding  all untracked files to stagging area)
 
 git commit -m "commit message"  [adding  staged files to local repository]
+
+git remote -v [list all remotes]
+
+git remote add  remote_name  "remote_http"  [adding remote repositery path]
+
+git push remote_name    branch
+
